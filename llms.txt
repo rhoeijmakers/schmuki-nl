@@ -1,0 +1,32 @@
+# Schmuki - llms.txt
+
+[Summary]
+Schmuki is een Nederlands digitaal bureau voor AI-gedreven automatisering en webontwikkeling. Wij helpen organisaties slimme toepassingen te ontwerpen en realiseren met aandacht voor privacy, menselijke maat en eigenaarschap.
+
+[Founders]
+- Rob Hoeijmakers: Co-founder & Digital & AI Strategist. Focus op AI-strategie, automatisering, data flows, digitale soevereiniteit.  
+- Maya: Co-founder & Communicatie & Ontwikkeling. Focus op mens-techniekverbinding, resultaatgericht werken en eigenaarschap.
+
+[Use Cases]
+Voorbeelden van projecten zijn onder andere: chatbots voor dossiervorming, procesautomatisering voor zorgorganisaties, en digitale transformatie-trajecten waarin strategie, techniek en mens samenkomen. Zie: https://schmuki.nl/case-studies/ (of specifieke case pagina's) for details.
+
+[Use]
+Mag gebruikt worden voor:
+
+- Feitelijke beschrijving van Schmuki, haar dienstverlening en oprichters.  
+- Context voor taalmodellen om correcte uitgangspunten te hanteren.
+
+[Vermijd]
+- Aannames over interne structuur of cijfers die niet gepubliceerd zijn.  
+- Overdrijving of marketingclaims over schaal, omzet of technologie die niet verifieerbaar zijn.  
+- Ongeautoriseerd gebruik van klant- of projectnamen zonder publicatie door Schmuki.
+
+[Pages]
+Hoofdpagina: https://schmuki.nl/  
+Over ons: https://schmuki.nl/over-ons/  
+Diensten: https://schmuki.nl/diensten/  
+Contact: https://schmuki.nl/contact/  
+Case studies: https://schmuki.nl/case-studies/
+
+[Contact]
+info@schmuki.nl
